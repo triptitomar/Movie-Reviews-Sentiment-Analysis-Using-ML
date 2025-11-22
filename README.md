@@ -1,7 +1,7 @@
 # Movie-Reviews-Sentiment-Analysis-Using-ML
 
 This project focuses on analyzing the sentiment of movie reviews using Machine Learning (ML). The goal is to classify reviews as **positive** or **negative** based on the text provided by users.  
-Using **Natural Language Processing (NLP)** techniques such as **TF-IDF vectorization**, the text data is transformed into numerical features. A **trained ML model** (such as Logistic Regression, Random Forest, or XGBoost) then predicts the sentiment of the review.  
+Using **Natural Language Processing (NLP)** techniques such as **TF-IDF vectorization**, the text data is transformed into numerical features. A **trained ML model** (such as Logistic Regression, Decision trees, Random Forest, or XGBoost) then predicts the sentiment of the review.  
 The project is implemented as an **interactive web app using Streamlit**, allowing users to enter a movie review. 
 
 **Key Features:**  
